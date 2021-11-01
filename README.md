@@ -38,9 +38,9 @@ Back End Technologies Used: Python, Django, AJAX, PostgreSQL.
 
 
 
-[Ride-Finder] <http://find-rides.herokuapp.com>
-[Remind Me] <https://desolate-garden-98632.herokuapp.com/>
-[Crypto Portfolio] <https://github.com/JB0925/crypto_portfolio>
+[Ride-Finder]: <http://find-rides.herokuapp.com>
+[Remind Me]: <https://desolate-garden-98632.herokuapp.com/>
+[Crypto Portfolio]: <https://github.com/JB0925/crypto_portfolio>
 
 ## My Pages
 LinkedIn: https://www.linkedin.com/in/jesse-brink-0682/
